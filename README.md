@@ -68,3 +68,5 @@ All telemetry data (Brake events, Fog Index, GNSS coordinates, Road Heatmaps) is
 
 ---
 *Built with ⚙️ for Smart India Hackathon*
+
+![Hardware Setup](hardware_setup.jpg)
