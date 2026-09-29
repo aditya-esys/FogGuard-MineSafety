@@ -73,7 +73,7 @@ All telemetry data (Brake events, Fog Index, GNSS coordinates, Road Heatmaps) is
 <img width="4032" height="2268" alt="jpgy 6337" src="https://github.com/user-attachments/assets/87a3e64e-623e-4d28-bb48-a994dfdd0edf" />
 <img width="4032" height="2268" alt="jpg 6335" src="https://github.com/user-attachments/assets/e29591c6-c310-4ab1-bf63-f7f2579d5e73" />
 
-
+[![FogGuard Prototype Demonstration](https://img.youtube.com/vi/Wy1SG-x6dCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=Wy1SG-x6dCo)
 
 
 
